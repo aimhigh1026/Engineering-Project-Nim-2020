@@ -19,3 +19,4 @@ It is expected to respond back to the player by taking coins from a pile
  as well as a blank box to type in how many coins you choose to take 
  and from which pile. It will continue to rotate between player to player until 
  one is forced to take the last coin.
+ 
