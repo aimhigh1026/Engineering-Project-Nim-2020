@@ -21,4 +21,4 @@ It is expected to respond back to the player by taking coins from a pile
  one is forced to take the last coin.
  
  -testing-
- - -
+ - --
