@@ -13,3 +13,8 @@ bot = commands.Bot(command_prefix='!')
 async def play_nim(ctx):
     await ctx.send("Still working on it, kiddo.")
     
+#set player to 1 
+player = 1
+#set initial start 
+coins = 25 
+
